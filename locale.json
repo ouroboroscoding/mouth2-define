@@ -1,6 +1,4 @@
 {
-	"__name__": "Mouth_Locale",
-
 	"_id": {
 		"__type__": "string",
 		"__regex__": "^[a-z]{2}-[A-Z]{2}$"
